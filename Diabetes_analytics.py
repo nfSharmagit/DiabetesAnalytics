@@ -16,7 +16,7 @@
 # 
 # Glucose(GPL):       Plasma glucose concentration a 2 hours in an oral glucose tolerance test
 # 
-# BloodPressure(DIA): Diastolic blood pressure (mm Hg)
+# BloodPressure(DIA): Diastolic blood pressure (mm Hg) 80 - 90 is normal
 # 
 # SkinThickness(TSF): Triceps skin fold thickness (mm)
 # 

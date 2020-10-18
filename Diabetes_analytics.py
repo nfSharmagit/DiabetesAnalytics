@@ -5,7 +5,7 @@
 # 
 # This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. 
 # The objective is to predict whether a patient has diabetes based on diagnostic measurements.    
-# Utilized Random Forest, KNN, and Descision Tree Classifiers to determine whether an individual is diabetic based on given parameters.
+# Utilized Random Forest, KNN, and Decision Tree Classifiers to determine whether an individual is diabetic based on given parameters.
 #  
 # 
 # Dataset Reference:

@@ -4,7 +4,9 @@
 # Project Objective:
 # 
 # This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. 
-#The objective is to predict whether a patient has diabetes based on diagnostic measurements.
+# The objective is to predict whether a patient has diabetes based on diagnostic measurements.    
+# Utilized Random Forest, KNN, and Descision Tree Classifiers to determine whether an individual is diabetic based on given parameters.
+#  
 # 
 # Dataset Reference:
 # 
@@ -388,7 +390,4 @@ plt.show()
 # Random Forest Accuracy : 76.04%
 # KNN Accuracy           : 72.39%
 # Decision Tree Accuracy : 72.91%
-#     
-# Created a predictive model to determine whether a individual has diabetes or no based on given parameters.
-# Based on given data the random forest algorithm can be used for pediction given a information about particular patient.
-#     
+   
